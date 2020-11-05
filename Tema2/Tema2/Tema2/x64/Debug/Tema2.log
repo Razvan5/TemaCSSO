@@ -1,0 +1,10 @@
+﻿  Tema2.cpp
+H:\8.CSSO\Tema2\Tema2\Tema2\Tema2.cpp(128): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+H:\8.CSSO\Tema2\Tema2\Tema2\Tema2.cpp(128): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'HANDLE'
+H:\8.CSSO\Tema2\Tema2\Tema2\Tema2.cpp(146): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  H:\8.CSSO\Tema2\Tema2\Tema2\Tema2.cpp(146): note: consider using '%zd' in the format string
+H:\8.CSSO\Tema2\Tema2\Tema2\Tema2.cpp(147): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  H:\8.CSSO\Tema2\Tema2\Tema2\Tema2.cpp(147): note: consider using '%zd' in the format string
+H:\8.CSSO\Tema2\Tema2\Tema2\Tema2.cpp(66): warning C4101: 'processInformation': unreferenced local variable
+H:\8.CSSO\Tema2\Tema2\Tema2\Tema2.cpp(93): warning C4101: 'ip': unreferenced local variable
+  Tema2.vcxproj -> H:\8.CSSO\Tema2\Tema2\x64\Debug\Tema2.exe
